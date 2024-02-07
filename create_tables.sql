@@ -20,8 +20,7 @@ CREATE TABLE Employees (
     FirstName VARCHAR(15),
     LastName VARCHAR(15),
     Position VARCHAR(15),
-    HourlyRate DECIMAL(4, 2),
-    CONSTRAINT chk_hourly_rate CHECK (HourlyRate >= 0)
+    HourlyRate DECIMAL(4, 2)
 );
 
 CREATE TABLE Sales (
