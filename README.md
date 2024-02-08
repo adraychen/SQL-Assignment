@@ -2,6 +2,14 @@ Restaurant Database
 
 The restaurant database is used for restaurant management. The database is designed to assist restaurant owner in analyzing business performance and designing menus that maximize profitability.
 
+Features
+
+Tables: Includes tables for orders, menu items, employees, and sales.
+
+Views: Predefined view for menu item profit margin to provide a convenient way to see the profitability of each menu item and view for employee performance to provide insights into the performance of each employee.
+
+Queries: Useful queries are available to retrieve specific information, such as profit, profit margin, average order per table, menu item popularity, and employee performance.
+
 Getting Started
 
 1. Create Database: Execute the SQL script create_tables.sql to create all necessary tables, including primary and foreign keys.
