@@ -10,7 +10,7 @@ CREATE TABLE Orders (
     OrderID INT PRIMARY KEY,
     OrderDate DATE,
     TableNumber INT,
-    MenuItemID INT,
+    ItemID INT,
     Quantity INT,
     TotalPrice DECIMAL(6, 2)
 );
