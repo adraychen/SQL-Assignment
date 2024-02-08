@@ -1,4 +1,4 @@
-INSERT INTO Orders (OrderID, OrderDate, TableNumber, ItemID, Quantity, TotalPrice)
+INSERT INTO Orders (orderid, orderdate, tablenumber, itemid, quantity, totalprice)
 VALUES
     (1, '2023-12-01', 3, 1, 2, 19.98),
     (2, '2023-12-02', 5, 3, 1, 11.99),
