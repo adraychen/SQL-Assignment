@@ -1,4 +1,4 @@
-INSERT INTO Sales (OrderID, EmployeeID, SaleDate, Amount)
+INSERT INTO Sales (orderid, employeeid, saledate, amount)
 VALUES
     (1, 1, '2023-12-01', 19.98),
     (2, 2, '2023-12-02', 11.99),
