@@ -1,4 +1,4 @@
-INSERT INTO MenuItems (ItemID, ItemName, Category, Price, Cost)
+INSERT INTO MenuItems (itemid, itemname, category, price, cost)
 VALUES
     (1, 'Cheeseburger', 'Main', 9.99, 3.50),
     (2, 'Caesar Salad', 'Starter', 7.99, 2.50),
