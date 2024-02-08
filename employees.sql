@@ -1,4 +1,4 @@
-INSERT INTO Employees (EmployeeID, FirstName, LastName, Position, HourlyRate)
+INSERT INTO Employees (employeeid, firstname, lastname, position, hourlyrate)
 VALUES
     (1, 'John', 'Smith', 'Waiter', 10.50),
     (2, 'Emma', 'Johnson', 'Chef', 12.75),
